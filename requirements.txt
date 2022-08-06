@@ -1,0 +1,14 @@
+pymysql
+sqlalchemy
+datetime
+wtforms
+flask_mail
+json
+string
+random
+werkzeug
+blueprints
+flask_migrate
+flask_mail
+functools
+flask_sqlalchemy
